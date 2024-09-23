@@ -1,0 +1,32 @@
+---
+title: "Case Study"
+author: "AJ"
+date: "2024-09-17"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+#Palmber-Penguins
+
+##DATSET- Case Study
+
+The Palmer penguins dataset by **Allison Horst**, *Alison Hill*, and *Kristen Gorman* is a dataset for data exploration & visualization, as an alternative to the Iris dataset. The dataset contains data for 344 penguins.
+
+It was very exciting to explore the world of 'R'-language. I really enjoyed this.
+
+###Case studis :-
+
+####1-Graph\
+\
+![1 chart](New folder/Rplot02.png)\
+\
+\#### 2^nd\ Chart\
+![2\ chart](New folder/Rplot02.png)\
+\####\ 3^rd\ chart^\
+![3rd chart](New folder/bill length.png)\
+\
+\#### final chart\
+![](New folder/final chart.png)\
+\
+
